@@ -1,5 +1,3 @@
-# spark-recommendation-system
-
 # Matrix Factorization and Collaborative filtering
 
 Matrix factorization using collaborative filtering is widely used in recommender systems to provide personalized and relevant recommendations to users based on their previous interactions and behaviour. Collaborative filtering assumes that if two users have similar preferences on certain items, they are likely to have similar preferences on other items as well.
